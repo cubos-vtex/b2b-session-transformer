@@ -1,7 +1,7 @@
 {
   "name": "b2b-session-transformer",
   "vendor": "ssesandbox04",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "title": "B2B Session Transformer",
   "description": "Adds B2B custom data to orderForm when logging in",
   "mustUpdateAt": "2018-01-04",
